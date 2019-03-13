@@ -2,6 +2,11 @@ namespace CentralTelefonica.Entidades
 {
     public abstract class Llamada
     {
+
+        public Llamada(){}
+
+        public Llamada(string numeroOrigen,string numeroDestino,double duracion) => (NumeroOrigen,NumeroDestino,Duracion) = (numeroOrigen,numeroDestino,duracion); 
+        
         private string numeroOrigen;
         public string NumeroOrigen
         {

@@ -9,3 +9,14 @@ C:\Users\Alvaro\Documents\Visual\CentralTelefonica\obj\Debug\netcoreapp2.2\Centr
 C:\Users\Alvaro\Documents\Visual\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.AssemblyInfo.cs
 C:\Users\Alvaro\Documents\Visual\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.dll
 C:\Users\Alvaro\Documents\Visual\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.pdb
+C:\Users\Programacion\Documents\Visual\CentralTelefonica\bin\Debug\netcoreapp2.2\CentralTelefonica.deps.json
+C:\Users\Programacion\Documents\Visual\CentralTelefonica\bin\Debug\netcoreapp2.2\CentralTelefonica.runtimeconfig.json
+C:\Users\Programacion\Documents\Visual\CentralTelefonica\bin\Debug\netcoreapp2.2\CentralTelefonica.runtimeconfig.dev.json
+C:\Users\Programacion\Documents\Visual\CentralTelefonica\bin\Debug\netcoreapp2.2\CentralTelefonica.dll
+C:\Users\Programacion\Documents\Visual\CentralTelefonica\bin\Debug\netcoreapp2.2\CentralTelefonica.pdb
+C:\Users\Programacion\Documents\Visual\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.csprojAssemblyReference.cache
+C:\Users\Programacion\Documents\Visual\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\Programacion\Documents\Visual\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.AssemblyInfoInputs.cache
+C:\Users\Programacion\Documents\Visual\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.AssemblyInfo.cs
+C:\Users\Programacion\Documents\Visual\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.dll
+C:\Users\Programacion\Documents\Visual\CentralTelefonica\obj\Debug\netcoreapp2.2\CentralTelefonica.pdb
