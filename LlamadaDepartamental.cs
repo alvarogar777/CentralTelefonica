@@ -2,6 +2,10 @@ namespace CentralTelefonica.Entidades
 {
     public class LlamadaDepartamental : Llamada
     {
+
+        public LlamadaDepartamental(){}
+
+        public LlamadaDepartamental(string numeroOrigen,string numeroDestino, double duracion) =>(base.NumeroOrigen,base.NumeroDestino,base.Duracion) = (numeroOrigen,numeroDestino,duracion);
         private double precioUno;
         public double PrecioUno
         {
