@@ -254,7 +254,7 @@ namespace CentralTelefonica.App
                 }
                 else if (numeroDia >= 2 && numeroDia <= 5) // valida entre el martes y viernes desde las 6:00
                 {
-                    resultado = 1; // Franja 1 = martes(0:00) - viernes(5:59)
+                    resultado = 1; // Franja 1 = martes(0:00) a martes(5:59) - viernes(5:59)
                 }
                 else if(numeroDia == 5 || numeroDia == 6 || numeroDia == 0 || numeroDia == 1 )
                 {
